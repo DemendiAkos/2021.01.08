@@ -1,0 +1,75 @@
+body {
+   background-image: url(img/hatter.jpg);
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.table {
+    border-collapse: collapse;
+}
+
+.div-main {
+    margin: auto;
+    width: 50%;
+    text-align: justify;
+}
+
+.head {
+    text-align: center;
+    background-image: url(img/fejlec.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 300px;
+    height: 141px;
+}
+
+.left-panel {
+    background-color: #E8E8E8;
+    vertical-align: top;
+    text-align: center;
+    color: #800000;
+    width: 250px;
+    text-align: left;
+    padding-left: 10px;
+}
+
+.informatione {
+    padding-left: 60px;
+    
+}
+
+.city {
+    margin-bottom: 0px;
+}
+
+.address {
+    margin-top: 0px;
+}
+
+.info-small {
+    font-size: small;
+}
+
+.right-panel {
+    background-color: #FFFFFFFF;
+    padding-right: 10px;
+    padding-left: 10px;
+    color: #484848;
+    background-image: url(img/tartalomkep.jpg);
+    background-repeat: no-repeat;
+    background-position: top right;
+}
+
+.bottom-left {
+    padding-top: 0px;
+    padding-right: 0px;
+    background-image
+}
+
+.bottom-image {
+    width: 100%;
+    display: flex;
+}
+
+.bottom-blank {
+   background-color: #FFFFFF;
+}
